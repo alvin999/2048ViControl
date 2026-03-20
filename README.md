@@ -2,7 +2,7 @@
 
 這是一個使用 Lua 語言和 LÖVE 2D 遊戲框架開發的 2048 遊戲。
 
-![Game Screenshot](https://raw.githubusercontent.com/alvin999/2048ViControl/main/screenshot.png)
+![Game Screenshot](https://raw.githubusercontent.com/alvin999/2048ViControl/main/screenshots/screenshot.png)
 
 ## 遊戲特色
 
